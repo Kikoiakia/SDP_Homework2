@@ -1,0 +1,4 @@
+﻿  interface.cpp
+E:\Learning\Uni\C++\SDP\Homework2\MrazMag_Firm\interface.cpp(161): warning C4715: 'Hierarchy::removeWorker': not all control paths return a value
+  tests.cpp
+  MrazMag_Firm_tests.vcxproj -> E:\Learning\Uni\C++\SDP\Homework2\MrazMag_Firm\Debug\MrazMag_Firm_tests.exe

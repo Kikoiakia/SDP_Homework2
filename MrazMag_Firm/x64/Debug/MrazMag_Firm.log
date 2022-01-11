@@ -1,0 +1,12 @@
+﻿  Firm.cpp
+E:\Learning\Uni\C++\SDP\Homework2\Homework2\MrazMag_Firm\Firm.cpp(210,13): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Learning\Uni\C++\SDP\Homework2\Homework2\MrazMag_Firm\Firm.cpp(212,14): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  interface.cpp
+E:\Learning\Uni\C++\SDP\Homework2\Homework2\MrazMag_Firm\interface.cpp(89,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Learning\Uni\C++\SDP\Homework2\Homework2\MrazMag_Firm\interface.cpp(376,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Learning\Uni\C++\SDP\Homework2\Homework2\MrazMag_Firm\interface.cpp(413,18): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+E:\Learning\Uni\C++\SDP\Homework2\Homework2\MrazMag_Firm\interface.cpp(436,31): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+E:\Learning\Uni\C++\SDP\Homework2\Homework2\MrazMag_Firm\interface.cpp(161): warning C4715: 'Hierarchy::removeWorker': not all control paths return a value
+  MrazMag_Firm.vcxproj -> E:\Learning\Uni\C++\SDP\Homework2\Homework2\MrazMag_Firm\x64\Debug\MrazMag_Firm.exe
